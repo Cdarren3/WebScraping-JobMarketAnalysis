@@ -8,9 +8,9 @@ Explore how the data science job market in Hong Kong looks like
 
 Provide the hiring information (including but not limited to the following) to potential candidates:
 
-* Number of job openings available?
-* Number of companies are recruiting?
-* Average years of experience required for different levels of position?
+* Number of job openings available
+* Number of companies are recruiting
+* Average years of experience required for different levels of position
 * The most sought-after technical skills 
 
 
