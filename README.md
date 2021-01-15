@@ -45,4 +45,4 @@ Pre-defined list of commonly required skills could be biased
 * Quite many job postings are posted by headhunt companies, which may lead to an inaccurate conclusion that HR is one of the top industries that is hiring DS jobs
 
 
-## Moving onwards
+## Moving Onwards
