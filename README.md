@@ -6,17 +6,17 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 ## Objective & Business Value
 Explore how the data science job market in Hong Kong looks like
 
-Provide the latest hiring information related to data science jobs in Hong Kong to current and prospective students, including but not limited to the following:
+Provide the hiring information (including but not limited to the following) to potential candidates:
 
-* How many job openings are available?
-* How many companies are recruiting?
-* What’s the average years of experience required for different levels of position?
-* What are the most sought-after skills? 
+* Number of job openings available?
+* Number of companies are recruiting?
+* Average years of experience required for different levels of position?
+* The most sought-after technical skills 
 
 
 ## Data Collection
 
-To begin with, we picked JobsDB among other recruit portals as it offers the highest number of jobs from Information Technology industry locally
+We picked JobsDB among other recruit portals as it offers the highest number of jobs from Information Technology industry locally
 JobsDB 6,096 
 Indeed ~4,000
 Ctgoodjobs 4,215
