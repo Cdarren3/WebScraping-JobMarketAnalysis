@@ -35,6 +35,14 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 
 ## Key Findings
 
+* 80% of openings favors job seekers with an average of 3 years of work experience
+* Among the 3 job functions, Business Analyst accounts for the most no. of jobs (52%), followed by Data Scientist (25%), DBA (22%)
+* Python ranked 4th in terms of most wanted technical skill
+* Technical skill are less frequently mentioned than generic skills, suggesting a possibility that 
+  * These skills are considered less important, and/or
+  * People who write the JDs are less familiar with technical skills required for Data Science roles
+
+
 ![alt Text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(0).png)
 
 
