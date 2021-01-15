@@ -8,6 +8,7 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 * Learn how the data science job market in Hong Kong looks like
 
 * Provide the hiring information (including but not limited to the following) to potential candidates:
+  
   * Number of job openings available
   * Number of companies are recruiting
   * Average years of experience required for different levels of position
@@ -18,7 +19,8 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 
 * We picked JobsDB among other recruit portals as it offers the highest number of jobs from IT industry locally
 
-* Based on filters available on JobsDB, we collected data of the following 3 job functions for further study:
+* Based on filtering available on JobsDB, we collected data of the following 3 job functions for further study:
+  
   * Data Scientist
   * Database administrator (DBA)
   * Business Analyst/ Product Management
