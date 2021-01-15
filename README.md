@@ -14,7 +14,7 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
   * The most sought-after technical skills 
 
 
-## Data Collection
+## Data Collection Method
 
 * We picked JobsDB among other recruit portals as it offers the highest number of jobs from IT industry locally
 
@@ -24,8 +24,12 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
   * Business Analyst/ Product Management
 
 
+## Tools Involved
 
-## Data Preprocessing
+* Beautiful Soup
+* Selenium
+* Pandas
+* Regex
 
 
 ## Key Findings
@@ -35,18 +39,15 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 
 ## Limitations
 
-Pre-defined list of commonly required skills could be biased
-* Findings on the most common required skills might be biased
-  * As skills list is pre-defined
-* Increase representation of the analysis by doing a comparison with competitors
+* Counts on the most common required skills relies on a pre-defined list of skills
+  * Skills not inlcuded in the list are left out
   
-* Get more insights into the hiring trend by doing a comparison with previous period (e.g. last month/ last year)
-
-* Quite many job postings are posted by headhunt companies, which may lead to an inaccurate conclusion that HR is one of the top industries that is hiring DS jobs
+* Many job postings are posted by headhunt companies 
+  * May lead to conclusion that these companies are hiring data science related jobs
 
 
 ## Moving Onwards
 
-* 
-* 
-* 
+* Increase representation of the analysis by collecting data from other recruit portals
+  
+* Get insights of hiring trend by doing a scraping previous period's data (e.g. last month/ last year)
