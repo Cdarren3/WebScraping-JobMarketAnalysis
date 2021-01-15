@@ -34,9 +34,16 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 
 
 ## Key Findings
-![alt Text]()
-![alt text](https://github.com/deschiu/Bootcamp-Colab-Showcase-Project-2-ML-Project-Mental-Health-in-Tech/blob/master/images/Mental%20Health%20in%20Tech.png)
 
+![alt Text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(0).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(1).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(2).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(3).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(4).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(5).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(6).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(7).png)
+![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(8).png)
 
 ## Limitations
 
