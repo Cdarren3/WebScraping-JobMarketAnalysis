@@ -30,6 +30,7 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 * Selenium
 * Pandas
 * Regex
+* Matplotlib
 
 
 ## Key Findings
