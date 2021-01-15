@@ -33,8 +33,8 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 
 
 ## Key Findings
-![Alt Text]()
-![Alt Text]()
+![alt Text]()
+![alt text](https://github.com/deschiu/Bootcamp-Colab-Showcase-Project-2-ML-Project-Mental-Health-in-Tech/blob/master/images/Mental%20Health%20in%20Tech.png)
 
 
 ## Limitations
