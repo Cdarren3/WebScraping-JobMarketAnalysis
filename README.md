@@ -31,3 +31,17 @@ Business Analyst/ Product Management
 
 
 ## Key Findings
+
+
+## Limitations
+
+Pre-defined list of commonly required skills could be biased.
+
+Increase representation of the analysis by doing a comparison with competitors.
+
+Get more insights into the hiring trend by doing a comparison with previous period (e.g. last month/ last year)
+
+Quite many job postings are posted by headhunt companies, which may lead to an inaccurate conclusion that HR is one of the top industries that is hiring DS jobs
+
+
+## Moving onwards
