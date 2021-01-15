@@ -19,9 +19,9 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 * We picked JobsDB among other recruit portals as it offers the highest number of jobs from IT industry locally
 
 * Based on filters available on JobsDB, we collected the following 3 job functions for further study:
- * Data Scientist
- * Database administrator (DBA)
- * Business Analyst/ Product Management
+  * Data Scientist
+  * Database administrator (DBA)
+  * Business Analyst/ Product Management
 
 
 
