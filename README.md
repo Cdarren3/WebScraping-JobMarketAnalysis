@@ -37,7 +37,7 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 
 ## Key Findings
 
-* Overall the job market favors job seekers with an average of 4 years of work experience
+* The job market favors job seekers with average of 4 years of work experience
 * Among the 3 job functions, Business Analyst accounts for the most no. of jobs (52%), followed by Data Scientist (25%) and DBA (22%)
 * Python ranked 4th in terms of most mentioned technical skill
 * Technical skill are less frequently mentioned than generic skills, suggesting possibilities that:
@@ -52,29 +52,22 @@ https://docs.google.com/presentation/d/1JC5lLi7bl61XO42e35yccHu4FWKjDMgIwGuqxSC-
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(1).png)
 
 
-
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(2).png)
-
 
 
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(3).png)
 
 
-
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(4).png)
-
 
 
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(5).png)
 
 
-
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(6).png)
 
 
-
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(7).png)
-
 
 
 ![alt text](https://github.com/Cdarren3/WebScraping-JobMarketAnalysis/blob/main/img/202009_%20%20Web%20Scraping%20-%20JobsDB%20(8).png)
